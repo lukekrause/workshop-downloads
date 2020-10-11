@@ -9,9 +9,10 @@ function deeperCopy(array) {
                    for (let y = 0; y < element.length; y++) {       
                         copyArray.push(element[y]);     
                     }   
-                    newArray[i] = copyArray;   
+                newArray[i] = copyArray;   
             } 
     } 
     console.log(newArray);  
     return newArray;
  }
+ 

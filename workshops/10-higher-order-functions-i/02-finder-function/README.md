@@ -1,8 +1,10 @@
 ### Finder Function
 
-Define a function 'finderFunction' that takes an array and a callback. Pass
-each element from the array into the callback. If the callback returns true,
-return the index of the current element. If the callback never returns true,
+Define a function 'finderFunction' that takes an array and a callback. Pass each element from the array into the callback. 
+
+If the callback returns true, return the index of the current element. 
+
+If the callback never returns true,
 return -1;
 
 ```javascript

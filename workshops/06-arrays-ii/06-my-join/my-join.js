@@ -15,3 +15,4 @@ function myJoin(array, separator = ',') {
       }
       } return newString
   } 
+  //ok 

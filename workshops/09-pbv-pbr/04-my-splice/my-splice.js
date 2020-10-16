@@ -58,3 +58,5 @@ function mySplice(array, startIdx, numElemsToDelete, elemToAdd){
     
     return elemsToDelete;
   }
+
+  // ok

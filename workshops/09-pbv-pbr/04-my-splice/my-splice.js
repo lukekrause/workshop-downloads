@@ -17,7 +17,7 @@
 //   let newArr = ['one', 'two', 'three', 'four', 'five']
 
 //  console.log(newArr.slice(0, 1))
-
+ // ok
 
 function mySplice(array, startIdx, numElemsToDelete, elemToAdd){
     let beginningElemsToKeep = [];
